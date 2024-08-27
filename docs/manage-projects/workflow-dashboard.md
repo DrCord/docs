@@ -15,7 +15,7 @@ failures.
 ![Dashboard](/img/lightning_workflow_dashboard.png)
 
 For further investigation, clicking on the number of Work Orders for the
-Workflows as shown bring you to the History of that Workflow. For example, here
+Workflows as shown brings you to the History of that Workflow. For example, here
 are the 7 Work Orders in a failed state:
 
 ![Failed Work Orders](/img/lightning_failed_work_orders.png)
